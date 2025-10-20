@@ -1,1 +1,2 @@
- pip install discord.py colorama
+discord.py>=2.3.0
+colorama>=0.4.6
