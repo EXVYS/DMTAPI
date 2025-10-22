@@ -67,7 +67,7 @@ class DMTAPI:
         
         title = "dsc.gg/dmtapi"
         print_gradient("╔══════════════════════════════════════════════════════════════╗")
-        print_gradient("║                      " + title.center(38) + "                   ║")
+        print_gradient("║            " + title.center(38) + "                ")
         print_gradient("╚══════════════════════════════════════════════════════════════╝")
     
     def get_user_input(self, prompt):
